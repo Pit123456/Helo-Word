@@ -1,0 +1,6 @@
+language: generic
+
+script:
+  - ./helo.sh
+
+
